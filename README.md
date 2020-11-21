@@ -1,2 +1,3 @@
-# akka_java_examples
-Actor Model (Akka) with java 
+# What is Actor Model?
+Conceptual model of concurrent computation.
+
